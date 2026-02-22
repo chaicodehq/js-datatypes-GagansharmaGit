@@ -117,3 +117,4 @@ export function processRailwayPNR(pnrData) {
 
   return { pnrFormatted, trainInfo, passengers, summary, chartPrepared };
 }
+
